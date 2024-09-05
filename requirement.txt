@@ -1,0 +1,24 @@
+# Core Libraries
+pandas
+numpy
+scikit-learn
+
+#Jupyter Notebook
+ipykernel
+
+# Modeling
+imbalanced-learn  # For handling class imbalance 
+statsmodels        # For statistical modeling and VIF calculation
+
+# Dimensionality Reduction
+scikit-learn       # PCA is included in scikit-learn
+
+# Feature Selection
+scikit-learn       # RFE is included in scikit-learn
+
+# Evaluation Metrics
+scikit-learn       # Contains various scoring metrics
+
+# Visualization 
+matplotlib
+seaborn
